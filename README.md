@@ -2,7 +2,7 @@
 
 - 🤔 Explorando novas tecnologias, aplicando meu aprendizado e buscando evoluir sempre.
 - 🎓 Estudando Engenharia de Software na UNASP.
-- 🌱 Aprendendo mais sobre Django, JavaScript e MySQL.
+- 🌱 Aprendendo mais sobre SpringBoot, Java e MySQL.
 
 ## Minhas Skills
 
