@@ -7,7 +7,7 @@
 
  🧠 Aspiring back-end developer, passionate about technology and computers.<br>
  🎓 Currently studying Software Engineering at UNASP<br>
- 🚀 Focused on improving my skills in Spring Boot, Databases, and C#<br>
+ 🚀 Focused on improving my skills in Spring Boot, Databases, and Java<br>
 </div>
 
 <div align="center">
