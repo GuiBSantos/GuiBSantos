@@ -66,7 +66,7 @@
 [![Gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:guilhermesantos2004b@gmail.com)
 [![GitHub](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/GuiBSantos)
 [![Discord](https://skillicons.dev/icons?i=discord&theme=light)](https://discord.gg/Q8AfsJFJ)
-[![Twitter](https://skillicons.dev/icons?i=twitter&theme=light)](https://x.com/JinxLW)
+[![Twitter](https://skillicons.dev/icons?i=twitter&theme=light)](https://x.com/JinxLW_)
 
 </div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ffffff&reversal=false&section=footer&animation=blink&fontColor=000000"/>
