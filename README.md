@@ -26,19 +26,19 @@
 
 **Linguagens**
 
-![Linguagens](https://skillicons.dev/icons?i=java,js,ts,html,css,nodejs,angular,react,nestjs&theme=light)
+![Linguagens](https://skillicons.dev/icons?i=java,js,ts,html,css&theme=light)
 
-**Frameworks**
+**Frameworks & Runtimes**
 
-![Frameworks](https://skillicons.dev/icons?i=spring,hibernate,docker,kubernetes,gradle,maven&theme=light)
+![Frameworks](https://skillicons.dev/icons?i=spring,nodejs,angular,react,nestjs,hibernate,gradle,maven&theme=light)
 
 **Databases**
 
 ![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&theme=light)
 
-**Ferramentas**
+**Tools & IDEs**
 
-![Ferramentas](https://skillicons.dev/icons?i=git,eclipse,vscode,postman&theme=light)
+![Ferramentas](https://skillicons.dev/icons?i=git,eclipse,vscode,postman,docker,kubernetes&theme=light)
 
 **Cloud**
 
