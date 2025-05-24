@@ -30,7 +30,7 @@
 
 **Frameworks & Runtimes**
 
-![Frameworks](https://skillicons.dev/icons?i=spring,nodejs,angular,react,nestjs,hibernate,gradle,maven&theme=light)
+![Frameworks](https://skillicons.dev/icons?i=spring,nodejs,angular,hibernate,gradle,maven&theme=light)
 
 **Databases**
 
@@ -38,7 +38,7 @@
 
 **Tools & IDEs**
 
-![Ferramentas](https://skillicons.dev/icons?i=git,eclipse,vscode,postman,docker,kubernetes&theme=light)
+![Ferramentas](https://skillicons.dev/icons?i=git,eclipse,webstorm,vscode,idea,postman,docker,kubernetes&theme=light)
 
 **Cloud**
 
