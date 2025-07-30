@@ -42,7 +42,7 @@
 
 **Cloud**
 
-![Plataformas de Nuvem](https://skillicons.dev/icons?i=aws,azure&theme=light)
+![Plataformas de Nuvem](https://skillicons.dev/icons?i=aws&theme=light)
 
 <p align="center">
   <img width="100%" height="5px" src="https://i.imgur.com/DFuwkPv.gif" alt="divisor animado" />
