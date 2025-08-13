@@ -48,15 +48,6 @@
   <img width="100%" height="5px" src="https://i.imgur.com/DFuwkPv.gif" alt="divisor animado" />
 </p>
 
-</div>
-
-<div align="center">
-  <br><p align="center"><b>Quantidade de visitantes</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GuiBSantos}/count.svg" /></p> 
-  <br>
- 
-</div>
-
 <div align="center">
  <h1>Onde me encontrar
  <p></p>
