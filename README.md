@@ -26,7 +26,7 @@
 
 **Linguagens**
 
-![Linguagens](https://skillicons.dev/icons?i=java,kotlin,js,ts,html,css&theme=light)
+![Linguagens](https://skillicons.dev/icons?i=java,js,ts,html,css&theme=light)
 
 **Frameworks & Runtimes**
 
