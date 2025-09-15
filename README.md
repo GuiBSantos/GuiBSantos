@@ -26,11 +26,15 @@
 
 **Linguagens**
 
-![Linguagens](https://skillicons.dev/icons?i=java,js,ts,html,css&theme=light)
+![Linguagens](https://skillicons.dev/icons?i=java,py,js,ts&theme=light)
 
 **Frameworks & Runtimes**
 
 ![Frameworks](https://skillicons.dev/icons?i=spring,nodejs,angular,hibernate,gradle,maven&theme=light)
+
+**Arquitetura & Mensageria**
+
+![Arquitetura](https://skillicons.dev/icons?i=kafka,rabbitmq&theme=light)
 
 **Databases**
 
@@ -38,11 +42,15 @@
 
 **Tools & IDEs**
 
-![Ferramentas](https://skillicons.dev/icons?i=git,eclipse,webstorm,vscode,idea,postman,docker,kubernetes&theme=light)
+![Ferramentas](https://skillicons.dev/icons?i=git,eclipse,webstorm,vscode,idea,terraform,postman,docker,kubernetes&theme=light)
 
-**Cloud**
+**Sistema Operacional**
 
-![Plataformas de Nuvem](https://skillicons.dev/icons?i=aws&theme=light)
+![SO](https://skillicons.dev/icons?i=arch,ubuntu,windows,linux&theme=light)
+
+**Cloud & CI/CD**
+
+![Plataformas de Nuvem](https://skillicons.dev/icons?i=aws,githubactions&theme=light)
 
 <p align="center">
   <img width="100%" height="5px" src="https://i.imgur.com/DFuwkPv.gif" alt="divisor animado" />
