@@ -38,11 +38,11 @@
 
 **Databases**
 
-![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&theme=light)
+![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,dynamodb&theme=light)
 
 **Tools & IDEs**
 
-![Ferramentas](https://skillicons.dev/icons?i=git,eclipse,webstorm,vscode,idea,terraform,postman,docker,kubernetes&theme=light)
+![Ferramentas](https://skillicons.dev/icons?i=git,eclipse,webstorm,vscode,idea,terraform,ansible,postman,docker,kubernetes&theme=light)
 
 **Sistema Operacional**
 
