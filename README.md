@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=💻+Olá,+me+chamo+Guilherme;📚+Tenho+19+anos;🌍+Focado+em+Java;🎓+Graduando+em+Engenharia+de+Software;🤝+Seja+bem-vindo+ao+meu+perfil!"/>
+    <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=💻+Olá,+me+chamo+Guilherme;📚+Tenho+20+anos;🌍+Focado+em+Java+C+CPP;🎓+Graduando+em+Engenharia+de+Software;🤝+Seja+bem-vindo+ao+meu+perfil!"/>
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 
 **Linguagens**
 
-![Linguagens](https://skillicons.dev/icons?i=java,py,js,ts&theme=light)
+![Linguagens](https://skillicons.dev/icons?i=java,c,cpp,py,js,ts&theme=light)
 
 **Frameworks & Runtimes**
 
@@ -42,11 +42,11 @@
 
 **Tools & IDEs**
 
-![Ferramentas](https://skillicons.dev/icons?i=git,eclipse,webstorm,vscode,idea,terraform,ansible,postman,docker,kubernetes&theme=light)
+![Ferramentas](https://skillicons.dev/icons?i=git,webstorm,vscode,idea,terraform,ansible,postman,docker,kubernetes&theme=light)
 
 **Sistema Operacional**
 
-![SO](https://skillicons.dev/icons?i=arch,ubuntu,windows,linux&theme=light)
+![SO](https://skillicons.dev/icons?i=arch,apple,linux&theme=light)
 
 **Cloud & CI/CD**
 
