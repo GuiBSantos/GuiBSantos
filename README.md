@@ -12,7 +12,7 @@
  
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=52&pause=3000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=80&lines=Software+Architect.;Backend+Engineer.;Java+%26+Cloud.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=52&pause=3000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=80&lines=Software+Engineer.;Backend+Engineer.;Java+%26+Cloud.)](https://git.io/typing-svg)
  
 </div>
  
