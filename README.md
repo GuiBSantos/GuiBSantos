@@ -45,7 +45,7 @@ const archgui = {
   name        : 'Guilherme Santos',
   role        : 'Backend Engineer in Training',
   location    : 'Artur Nogueira, SP — Brazil',
-  education   : ['BSc Software Engineering @ UNASP', 'BSc Information Systems @ UNASP'],
+  education   : ['BSc Information Systems @ UNASP'],
   os          : ['Arch Linux', 'macOS'],
   langs       : ['Java', 'TypeScript', 'Python', 'C', 'C++'],
   principles  : ['SOLID', 'Clean Architecture', 'DDD', 'Microservices'],
